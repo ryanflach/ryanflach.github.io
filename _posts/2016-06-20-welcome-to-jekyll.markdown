@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Something Spicy in my Burrito"
 date:   2016-06-20 09:08:26 -0700
-categories: jekyll update
+categories: random thoughts
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello there. If you're reading this, you're either Andrew Carmer, a curious classmate, or terribly lost.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm comfortably sitting on my parents' couch in San Diego as I write this. I didn't grow up here, but it's a nicer place to call home than State College, Pennsylvania, was. My intermission week in San Diego has largely been spent at my computer, but I did go to the beach this morning with my brother and his family. Although crowded, body surfing and walking the beach down to the pier was a much needed break from computers. I'll try and visit with some friends while here as well.
 
-Jekyll also offers powerful support for code snippets:
+Jekyll (the interface with which this blog was built) allows the use of [Liquid](https://github.com/Shopify/liquid/wiki) templating to include code snippets. I'm writing this entirely so I don't forget what that is and what it does. It can do many things, but one of them is to display Ruby code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
@@ -18,8 +18,8 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+I stole that code from the example post. It's not the most exciting method, but _that's not the point_.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Well, I feel as though I've probably typed more than enough for this demonstration, so I will leave you with a YouTube video of me playing drums in the Philippines that I've embedded using the tips found [in this blog post](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/).
+
+{% include youtubePlayer.html id="aVmCZwhS3xA" %}
