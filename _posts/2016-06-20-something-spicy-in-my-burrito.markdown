@@ -2,7 +2,7 @@
 layout: post
 title:  "Something Spicy in my Burrito"
 date:   2016-06-20 09:08:26 -0700
-categories: random thoughts
+categories: thoughts
 ---
 Hello there. If you're reading this, you're either Andrew Carmer, a curious classmate, or terribly lost.
 
