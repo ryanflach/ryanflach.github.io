@@ -23,3 +23,6 @@ I stole that code from the example post. It's not the most exciting method, but 
 Well, I feel as though I've probably typed more than enough for this demonstration, so I will leave you with a YouTube video of me playing drums in the Philippines that I've embedded using the tips found [in this blog post](http://www.adamwadeharris.com/how-to-easily-embed-youtube-videos-in-jekyll-sites-without-a-plugin/).
 
 {% include youtubePlayer.html id="aVmCZwhS3xA" %}
+
+Finally, to test an issue that others were having, here's my Turing headshot:
+![Picture of me]({{ site.url }}/assets/images/ryan-flach.jpg =25%)
