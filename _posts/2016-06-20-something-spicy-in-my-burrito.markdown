@@ -25,4 +25,4 @@ Well, I feel as though I've probably typed more than enough for this demonstrati
 {% include youtubePlayer.html id="aVmCZwhS3xA" %}
 
 Finally, to test an issue that others were having, here's my Turing headshot:
-![Picture of me]({{ site.url }}/assets/images/ryan-flach.jpg =25%)
+![Picture of me]({{ site.url }}/assets/images/ryan-flach.jpg)
