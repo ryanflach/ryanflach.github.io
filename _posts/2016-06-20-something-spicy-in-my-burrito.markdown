@@ -24,5 +24,5 @@ Well, I feel as though I've probably typed more than enough for this demonstrati
 
 {% include youtubePlayer.html id="aVmCZwhS3xA" %}
 
-Finally, to test an issue that others were having, here's my Turing headshot:
-![Picture of the author]({{ site.url }}/assets/ryan-flach.jpg)
+<br />Finally, to test an issue that others were having, here's my Turing headshot:
+![author]({{ site.url }}/assets/ryan-flach.jpg)

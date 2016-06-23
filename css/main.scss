@@ -51,3 +51,11 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Modify size of author image
+img[alt=author] {
+  width: 50%;
+  height: 50%;
+  border: 2px solid #000;
+  display: block;
+}
